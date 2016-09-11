@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Air Ink
-date: 2016-09-10
+date: 2016-09-09
 categories: design, ink, sustentability
 ---
 

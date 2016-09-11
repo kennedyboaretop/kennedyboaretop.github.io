@@ -7,7 +7,7 @@ categories: design, ink, sustentability
 
 <img src="/images/fulls/01.jpg" class="fit image"> Já imaginou uma tinta desenvolvida  a partir de fragmentos de poluição existentes no ar. Uma startup indiana chamada Graviky Labs, um spin off do MIT (Massachusetts Institute of Technology), teve essa brilhante ideia para desenvolver tintas provenientes do gás carbono presente no ar poluído denominada Air Ink.
 
-A startup que visa unir paixão e criatividade, ainda não comercializa a tinta, para o descontentamento de muitos. Mesmo assim, a empresa em parceria com a empresa de cervejas Tiger (Heineken Asiática), desenvolveu uma campanha onde vários artistas utilização a tinta, para fazer walls e posters.
+A startup que visa unir paixão e criatividade, ainda não comercializa a tinta, para o descontentamento de muitos. Mesmo assim, a empresa em parceria com a empresa de cervejas Tiger (Heineken Asiática), desenvolveu uma campanha onde vários artistas utilizão a tinta, para fazer walls e posters.
 
 Mais sobre essa incrível caneta você pode conferir neste vídeo:
 <iframe width="640" height="360" src="https://www.youtube.com/embed/cwy549sOYb8" frameborder="0" allowfullscreen></iframe>

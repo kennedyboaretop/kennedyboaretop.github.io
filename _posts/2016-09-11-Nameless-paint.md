@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Nameless Paint
-date: 2016-09-10
-categories: design, ink, japanese, colors
+date: 2016-09-11
+categories: design, ink, japanese, colors, product
 ---
 
 <img src="/images/fulls/02.jpg" class="fit image"> O duo japonês Ima Moteki, formado pelos designers Ayami Moteki e Yusuke Imai, desenvolveram um nova forma de representar as cores. O próposito é que crianças intuitivamente entendam como as cores são formadas. Essa metodologia propõe a quebra de paradigmas como azul, cor do mar, deixando aberta a experiência e a criatividade imaginativa da criança.

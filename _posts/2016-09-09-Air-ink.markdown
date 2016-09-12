@@ -2,7 +2,7 @@
 layout: post
 title: Air Ink
 date: 2016-09-09
-categories: design, ink, sustentability
+categories: design, ink, sustentability, product
 ---
 
 <img src="/images/fulls/01.jpg" class="fit image"> Já imaginou uma tinta desenvolvida  a partir de fragmentos de poluição existentes no ar. Uma startup indiana chamada Graviky Labs, um spin off do MIT (Massachusetts Institute of Technology), teve essa brilhante ideia para desenvolver tintas provenientes do gás carbono presente no ar poluído denominada Air Ink.

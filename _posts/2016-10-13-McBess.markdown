@@ -5,7 +5,7 @@ date: 2016-10-13
 categories: design, ink, mcbess, drawing, painting
 ---
 
-<img src="/images/fulls/04.jpg" class="fit image"> O ilustrador  francês Matthieu Bessudo, popularmente conhecido como McBess é um multifaceta, altém de trabalhar com ilustrações icônicas, também realiza trabalhos de animação até mesmo esculturas. O francês é fortemente influenciado por comida e rock n' roll assim em suas ilustrações você vê diversas guitarras, amplificadores além de outras parafernalhas.
+<img src="/images/fulls/04.jpg" class="fit image"> O ilustrador  francês Matthieu Bessudo, popularmente conhecido como McBess é um multifaceta, além de trabalhar com ilustrações icônicas, também realiza trabalhos de animação até mesmo esculturas. O francês é fortemente influenciado por comida e rock n' roll assim em suas ilustrações você vê diversas guitarras, amplificadores além de outras parafernalhas.
 
 Muitas de suas obras servem de inspirações para diversos artistas hoje na internet.
 Além de um exímio artista Mcbess também é um músico da banda Dead Pirates.

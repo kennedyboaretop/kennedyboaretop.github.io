@@ -10,6 +10,7 @@ Eley utiliza fotos para realizar suas obras que são feitas em tinta óleo. Inic
 
 Se você ainda não conhece ainda da tempo de conferir  seu portifólio <a href="http://www.robineley.com">http://www.robineley.com</a>
 
+Observe uma de suas técnicas de como pintar plástico:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nA0EQcUgu1Q" frameborder="0" allowfullscreen></iframe>
 <img src="/images/fulls/05-1.jpg" class="fit image">
 <img src="/images/fulls/05-2.jpg" class="fit image">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/nA0EQcUgu1Q" frameborder="0" allowfullscreen></iframe>

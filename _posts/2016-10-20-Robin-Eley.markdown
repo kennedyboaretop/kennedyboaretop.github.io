@@ -4,7 +4,7 @@ date: 2016-10-13
 categories: Robin Eley, drawing, painting
 ---
 
-<img src="/images/fulls/05.jpg" class="fit image"> Robin Eley nascido na inglaterra em 1978, depois se mudou para Austrália em 1981. Passado este período foi tentar a vida nos Estados Unidos onde como capitão do time de basketball ganhou  a oportunidade de fazer Bachelor em Arts majoring Fine Arts in 2001.
+<img src="/images/fulls/05.jpg" class="fit image"> Robin Eley nascido na inglaterra em 1978, depois se mudou para Austrália em 1981. Passado este período foi tentar a vida nos Estados Unidos onde como capitão do time de basketball ganhou  a oportunidade de fazer Bachelor em Arts majoring Fine Arts em 2001.
 
 Eley utiliza fotos para realizar suas obras que são feitas em tinta óleo. Iniciou suas obras  utilizando como modelo familiares e conhecidos passando utilizar profissionais e hoje trabalha com um hiperrealismo íncrivel. Suas obras são pretenciosas e com grande magnitude a olhos poucos atentos podem se passar uma foto uma de suas peças.
 

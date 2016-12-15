@@ -1,14 +1,15 @@
 ---
 layout: post
-title: James Jean
+title: Kim Jung Gi
 date: 2016-10-28
-categories: design, ink, jamesjean, drawing, painting
+categories: design, ilustration, kim jung gi, drawing,
 ---
 
-<img src="/images/fulls/06.jpg" class="fit image"> James Jean nasceu em Taiwan e foi criado New Jersey, graduado em 2001 na School of Visual Arts em Nova York. Conhecido por sua versatilidade pois já trabalhou desde capas da DC Comics como também a Prada.
+<img src="/images/fulls/07.jpg" class="fit image"> Kim Jung Gi nasceu em 1975,  Goyang-Si província de  Kyongki-Do na Korea no Sul. Aos 19 anos entra escola de belas artes e lá encontra milhares de pessoas que serviram para aprimorar sua técnica.
 
-Em seu site oficial é possível conferir vários de seus trabalhos, assim como seus sketchbooks.
-Se você ainda não conhece ainda da tempo de conferir  em <a href="http://www.jamesjean.com">http://www.jamesjean.com</a>
+Jung Gi não utiliza referências para realizar seus desenhos, suas referências são produto do que foi coletando ao longo da vida dessa forma é possível encontrar vários vídeos em tempo real dos desenhos de Jung Gi. Além de toda uma carreira brilhante possuí um record no guiness book com o maior desenho individual por meio de FISHEYE Art.
 
-<img src="/images/fulls/06-1.jpg" class="fit image">
-<img src="/images/fulls/06-2.jpg" class="fit image">
+
+
+<img src="/images/fulls/07-1.jpg" class="fit image">
+<img src="/images/fulls/07-2.jpg" class="fit image">

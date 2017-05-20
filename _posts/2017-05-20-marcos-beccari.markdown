@@ -10,5 +10,5 @@ categories: design, illustration, watercolor, marcosbeccari, marcos beccari,
 Seu trabalho pode ser acompanhado pelo <a href="https://www.instagram.com/marcosbeccari/">https://www.instagram.com/marcosbeccari/</a>.
 
 
-<img src="/images/fulls/Marcos Beccari - 2" class="fit image">
-<img src="/images/fulls/Marcos Beccari - 3" class="fit image">
+<img src="/images/fulls/Marcos Beccari - 2.jpg" class="fit image">
+<img src="/images/fulls/Marcos Beccari - 3.jpg" class="fit image">

@@ -11,4 +11,4 @@ Seu trabalho pode ser acompanhado pelo <a href="https://www.instagram.com/marcos
 
 
 <img src="/images/fulls/Marcos Beccari - 2.jpg" class="fit image">
-<img src="/images/fulls/Marcos Beccari - 3.jpg" class="fit image">
+<img src="/images/fulls/Marcos Beccari - 3.jpg " class="fit image">

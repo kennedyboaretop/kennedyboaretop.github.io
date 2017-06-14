@@ -6,7 +6,7 @@ categories: design, illustration, painting, jeremy geddes
 ---
 
 <img src="/images/fulls/Jeremy Geddes - 1.jpg" class="fit image"> Ilustre pintor, nascido na nova zelândia, bacharelou-se em Artes Visuais em Melbourne na Austrália, onde reside atualmente com sua esposa e seu whippet.
-Este célebre pintor é conhecido pelos principalmente pelos seus astronautas, mas seu portfólio também há pessoas flutuando, colisões e cenários.
+Este célebre pintor é conhecido principalment pelos seus astronautas, mas seu portfólio também há pessoas flutuando, colisões e cenários.
 
 Na série cosmonauta o vazio que é representado pelo artista é devastador, aliado ao realismo juntamente com as cores, você tem uma mistura desconcertante de Jeremy Geddes.
 
